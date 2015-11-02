@@ -1,13 +1,13 @@
-Street Address,City,State,Zip
-14  Armory Rd ,Milford,NH,03055
-55  Butler St ,Salem,NH,03079
-116 N Main St ,Boscawen,NH,03303
-505  Amherst St ,Nashua,NH,03060
-20  Bridge St ,Milan,NH,03588
-206  Central St ,Woodsville,NH,03785
-364  Cates Hill Rd ,Berlin,NH,03570
-1222  Hutchins  ,Berlin,NH,03570
-290 E Side Rd ,Conway,NH,03818
-32  Main St ,Littleton,NH,03561
-175  Turnpike Rd ,New Ipswich,NH,03071
-2  Marshall Rd ,Kingston,NH,03848
+Street Address,City,State,Zip,Rural
+14  Cross Rd ,Amherst,NH,03031,0
+20  Main St ,Exeter,NH,03833,0
+39  Harvard St ,Laconia,NH,03246,0
+1  Liberty Ln ,Hampton,NH,03842,0
+47  Recycle Rd ,Stark,NH,03582,2
+126  Main St ,Colebrook,NH,03576,2
+1886  NH  175 Rte ,Thornton,NH,03285,2
+68  Maple St ,Sandwich,NH,03227,2
+42  Highland St ,Plymouth,NH,03264,1
+85  Verdun St ,Berlin,NH,03570,1
+29  DPW Dr ,Greenfield,NH,03047,1
+16  East Rd ,Weare,NH,03281,1

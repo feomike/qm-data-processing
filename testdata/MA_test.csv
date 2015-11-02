@@ -1,13 +1,13 @@
-Street Address,City,State,Zip
-30  Elm Ave ,Hyannis,MA,02601
-69  Maple Street ,Florence,MA,01062
-15  South Street ,Bridgewater,MA,02324
-86  White Street ,East Boston,MA,02128
-15  Nobadeer Farm Road ,Nantucket,MA,02584
-35  Robinson Road ,Edgartown,MA,02539
-63  State Road ,AQUINNAH,MA,02535
-28  Tower Road ,GOSNOLD,MA,02713
-2  Oak Bluffs Avenue ,OAK BLUFFS,MA,02568
-51  Spring Street ,TISBURY,MA,02568
-422  Main Road ,Chesterfield,MA,01012
-75  Montague Road ,Leverett,MA,ZZ
+Street Address,City,State,Zip,Rural
+15  Lobao Drive ,Danvers,MA,01923,0
+850  Pearce Street ,Fall River,MA,02720,0
+110  June Street ,Lowell,MA,01850,0
+125  Purchase Street ,BOSTON,MA,02110,0
+424  State Road ,West Tisbury,MA,02575,2
+522  South Road ,Chilmark,MA,02535,2
+20  Eddys Island Way ,CHILMARK,MA,02535,2
+3  Menemsha Crossroad ,CHILMARK,MA,02535,2
+20 South Water Street ,NANTUCKET,MA,02554,1
+16  Broad Street ,NANTUCKET,MA,02554,1
+1  East Street ,Stockbridge,MA,01262,1
+169  Lincoln Road ,LINCOLN,MA,01773,1

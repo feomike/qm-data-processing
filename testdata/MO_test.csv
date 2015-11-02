@@ -1,13 +1,13 @@
-Street Address,City,State,Zip
-2555  Hackmann Road ,Saint Charles,MO,63303
-12220  Bellefontaine Road ,St Louis,MO,63138
-711 N Main St. Street ,NIXA,MO,65714
-2001 S Lindbergh Boulevard ,St Louis,MO,63131
-309  W. Englewood  ,STOCKTON,MO,65785
-105 W 4th Street ,Appleton City,MO,64724
-217  State Hwy Tt State Highway ,DANVILLE,MO,63361
-101 W Georgetown Street ,Otterville,MO,65348
-3203  Oak Grove Road ,Poplar Bluff,MO,63901
-510  College Avenue ,Kennett,MO,63857
-622  Harlan Street ,Clifton Hill,MO,65244
-401 E Kellett Street ,Martinsburg,MO,65264
+Street Address,City,State,Zip,Rural
+3600 N 2nd Street ,Saint Louis,MO,63147,0
+9303  Midland Blvd.  ,SAINT LOUIS,MO,63114,0
+505 SE Shamrock Lane ,Blue Springs,MO,64014,0
+6005  Cedar Hill Road ,Cedar Hill,MO,63016,0
+1818  County Road 806 ,Gainesville,MO,65655,2
+315 W Ohio Street ,Mansfield,MO,65704,2
+1201  O Highway Highway ,Bakersfield,MO,65609,2
+1211  S. Carnation Dr.  ,Aurora,MO,65605,2
+326  College Street ,Perryville,MO,63775,1
+500 S Ashland Avenue ,Palmyra,MO,63461,1
+211 W Main Street ,Fairview,MO,64842,1
+101  S. 17th St.  ,SARCOXIE,MO,64862,1

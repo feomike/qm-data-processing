@@ -1,13 +1,13 @@
-Street Address,City,State,Zip
-1030 Mcnutt Road,Sunland Park,NM,88063
-1700 Pennsylvania Street Ne,Albuquerque,NM,87110
-2300 Arenal Road Sw,Albuquerque,NM,87105
-401 S Commercial Ave,Farmington,NM,87401
-309 Apple Street,House,NM,88121
-125 N. Collison Ave.,Cimarron,NM,87714
-415 Highway 211,Gila,NM,88038
-4209 Quay Road 46,Tucumcari,NM,88401
-1400 Cameo St,Clovis,NM,88101
-302 N 5Th St,Lovington,NM,88260
-201 Broadway Street,Moriarty,NM,87035
-4 Lost Lodge Rd,Cloudcroft,NM,88317
+Street Address,City,State,Zip,Rural
+3501 E. Main St #N,Farmington,NM,87402,0
+1616 Richmond Drive Ne,Albuquerque,NM,87106,0
+3751 Del Rey Boulevard,Las Cruces,NM,88012,0
+2100 Yucca Street,Santa Fe,NM,87505,0
+3000 West Church St.,Carlsbad,NM,88220,2
+400 Sunset Blvd.,Logan,NM,88426,2
+615 Prospect Avenue,Springer,NM,87747,2
+489 Blueberry Hill Road,Taos,NM,87571,2
+18 W. Washington,Lovington,NM,88260,1
+101 West College Boulevard,Roswell,NM,88201,1
+8154 Hwy 4,Jemez Pueblo,NM,87024,1
+20 Calle Bomberos,Jemez Springs,NM,87025,1

@@ -1,7 +1,7 @@
-Street Address,City,State,Zip
-777  Cass Ave ,Woonsocket,RI,02895
-56  Purchase St ,East Providence,RI,02914
-91  Fricker St ,Providence,RI,02903
-125  Main St ,East Greenwich,RI,02818
-1040  Matunuck School Rd ,South Kingstown,RI,02879
-366  Nooseneck Hill Rd ,Exeter,RI,02822
+Street Address,City,State,Zip,Rural
+93  Tower St ,Westerly,RI,02891,0
+10  Waldron Ave ,Barrington,RI,02806,0
+395  Metacom Ave ,Bristol,RI,02809,0
+70  Deborah Rd ,Warwick,RI,02888,0
+400  Nate Whipple Hwy ,Cumberland,RI,02864,1
+252  Kingstown Rd ,Richmond,RI,02898,1

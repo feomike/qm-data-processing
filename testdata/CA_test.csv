@@ -1,13 +1,13 @@
-Street Address,City,State,Zip
-1 Medical Plaza Dr,Roseville,CA,95661
-1256 Broadway,El Centro,CA,92243
-1275 East Broadway Street,Anaheim,CA,92805
-277 South St Ste W,San Luis Obispo,CA,93401
-604 B Main Street,Loyalton,CA,96118
-4672 County Road N,Orland,CA,95963
-51710 Highway 395,Lee Vining,CA,93541
-612 First Street,Chester,CA,96020
-160 Grandview Lane,Bishop,CA,93514
-1500 Meridian Boulevard,Mammoth Lakes,CA,93546
-514 Live Oak Circle Dr,Calabasas,CA,91302
-2657 Chileno Valley Road,Petaluma,CA,94952
+Street Address,City,State,Zip,Rural
+1 Carnes Road,Oceanside,CA,92058,0
+1 Cassou Road,San Marcos,CA,92069,0
+1 Church Road,Thousand Oaks,CA,91362,0
+1 Civic Center Circle,Brea,CA,92821,0
+37 Emigrant Street,Bridgeport,CA,93517,2
+223 East Locust Street,Lone Pine,CA,93545,2
+38016 Highway 96,Orleans,CA,95556,2
+730 North Highway 96,Willow Creek,CA,95573,2
+811 Court St,Jackson,CA,95642,1
+392 16th Street,Fortuna,CA,95540,1
+14600 South Austin Road,Manteca,CA,95336,1
+3000 College Heights Blvd,Ridgecrest,CA,93555,1

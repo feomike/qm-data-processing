@@ -1,7 +1,7 @@
-Street Address,City,State,Zip
-8  Thomas St South River  ,South River,NJ,08882
-370  Walnut Ave Cranford  ,Cranford,NJ,07016
-620  Montgomery St Jersey City  ,Jersey City,NJ,07302
-8  Saddle Road  ,Cedar Knolls,NJ,07927
-430  HARMONY RD  ,JACKSON,NJ,08527
-501  Locust Island Rd Hancocks Bridge  ,Hancocks Bridge,NJ,08038
+Street Address,City,State,Zip,Rural
+3152  Glassboro Cross Keys Rd Glassboro  ,Glassboro,NJ,08028,0
+32  World's Fair Drive  ,Somerset,NJ,08873,0
+1669  E Landis Ave Vineland  ,Vineland,NJ,08361,0
+5  Shawnee Trl Montville  ,Montville,NJ,07045,0
+351  Monmouth Road  ,Wrightstown,NJ,08562,1
+780  RT  ,Newton,NJ,07860,1

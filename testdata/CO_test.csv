@@ -1,13 +1,13 @@
-Street Address,City,State,Zip
-7790  Rea Parkway ,Windsor,CO,80550
-7190  Colorado Boulevard ,Commerce City,CO,80022
-160  Rock Creek Mesa Road ,Colorado Springs,CO,80926
-1667  St Paul Street ,Denver,CO,80206
-56750  14  ,Walden,CO,80480
-140  Grand Avenue ,Paonia,CO,81428
-409  Trinchera Street ,San Luis,CO,81152
-1208  Luther Street ,Eads,CO,81036
-2277 East East Drive ,Monte Vista,CO,81144
-245  Vine Avenue ,Las Animas,CO,81054
-1959 North 83  ,Franktown,CO,80116
-605  6th Street ,Georgetown,CO,80444
+Street Address,City,State,Zip,Rural
+2502 East Pikes Peak  ,Colorado Springs,CO,80909,0
+800 South 3rd Street ,Montrose,CO,81401,0
+5254 North Meadows Drive ,Castle Rock,CO,80109,0
+201  Bonanza Boulevard ,Lochbuie,CO,80603,0
+17523  160  ,Blanca,CO,81123,2
+748  Main Street ,Springfield,CO,81073,2
+447 West Columbia Avenue ,Telluride,CO,81435,2
+9511  H  ,Mesita,CO,81152,2
+120 North Mill Street ,Aspen,CO,81611,1
+135 West 7th Street ,Walsenburg,CO,81089,1
+156  Rockafellow Street ,Rockvale,CO,81244,1
+2606  24  ,Florissant,CO,80816,1

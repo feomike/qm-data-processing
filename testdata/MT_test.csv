@@ -1,13 +1,12 @@
-Street Address,City,State,Zip
-310 S SURREY,Missoula,MT,59808
-2920 Airport Ave A,Great Falls,MT,59404
-815 2ND AVENUE SOUTH,Great Falls,MT,59406
-1200 30Th Street West,Billings,MT,59102
-1015 South 3Rd Street West,Baker,MT,59313
-108 Fulton Street,Thompson Falls,MT,59873
-222 East Main Street,Manhattan,MT,59741
-105 Central Ave,Reed Point,MT,59069
-104 N Pacific Street,Dillon,MT,59725
-106 1St Street East,Polson,MT,59860
-11 Bridge Street,Belt,MT,59412
-1750 Ray of Hope Lane,Billings,MT,59106
+street_address,city,state,zip,ruralStreet Address,City,State,Zip,Rural1785 MAJESTIC LANE,Billings,MT,59102,0
+2135 Lewis Avenue,Billings,MT,59102,0
+1932 US Highway 87,Lockwood,MT,59101,0
+1009 3RD AVENUE NORTH,Great Falls,MT,59401,0
+202 Royal Avenue,Richey,MT,59259,2
+2010 MASONIC HOME RD,Helena,MT,59601,2
+718 Round Butte Rd W,Ronan,MT,59864,2
+265 Park Road,Zurich,MT,59523,2
+410 9TH AVE,Helena,MT,59601,1
+440 Colorado Boulevard,Glendive,MT,59330,1
+32 Somerfeld Rd,Power,MT,59468,1
+6792 State Highway 83,Condon,MT,59826,1

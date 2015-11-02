@@ -1,13 +1,13 @@
-Street Address,City,State,Zip
-100  Courthouse Road ,Princeton,WV,24740
-200  Center Street ,Pratt,WV,25162
-38  Emerald Lane ,Fairmont,WV,26554
-2550  U.S. Rt. 60 Highway ,Hurricane,WV,25526
-146  Williams Drive ,Spencer,WV,25276
-259  Anjean Road ,Rupert,WV,25984
-104  West Virginia Avenue ,Iaeger,WV,24844
-223  Early Street ,Mullens,WV,25882
-154 E Main Street ,Spencer,WV,25276
-1636 W Pike Street ,Clarksburg,WV,26301
-5570  Madison Creek Road ,Salt Rock,WV,25559
-69  Ranger Bottom Road ,Ranger,WV,25557
+Street Address,City,State,Zip,Rural
+100  Airport Road ,Charleston,WV,25311,0
+104  Pershing Avenue ,Mabscott,WV,25871,0
+2507  1st Avenue ,East Bank,WV,25067,0
+300  Courthouse Square ,Wellsburg,WV,26037,0
+8  Cunningham Lane ,Walton,WV,25286,2
+384  Second Street ,Thomas,WV,26292,2
+900  10th Avenue ,Marlinton,WV,24954,2
+16629  United States Highway 19 Highway ,Walkersville,WV,26447,2
+230  Hospital Plaza ,Weston,WV,26452,1
+100  Campus Drive ,Elkins,WV,26241,1
+127  Bishop Avenue ,Albright,WV,26519,1
+6411  Meadow Bridge Road Highway ,Danese,WV,25831,1

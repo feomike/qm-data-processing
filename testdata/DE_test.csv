@@ -1,7 +1,7 @@
-Street Address,City,State,Zip
-100  Old Lancaster Pike ,Hockessin,DE,19707
-3100  Hawthorne Drive ,Dover,DE,19901
-200 East Camden Wyoming Avenue ,Camden,DE,19934
-100  Paxson Drive ,Newark,DE,19702
-5407  Killens Pond Road ,Felton,DE,19943
-11  Main & McCabe Street ,Selbyville,DE,19975
+Street Address,City,State,Zip,Rural
+220  Casho Mill Road ,Newark,DE,19711,0
+32628  Oak Orchard Road ,Millsboro,DE,19966,0
+211  Silver Lake Road ,Middletown,DE,19709,0
+7  Front Street ,Wyoming,DE,19934,0
+82  Possum Road ,Newark,DE,19711,1
+1775  Wheatleys Pond Road ,Smyrna,DE,19977,1
